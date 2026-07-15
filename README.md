@@ -10,30 +10,26 @@ EduRecursos Preescolar es un repositorio digital diseñado para organizar y comp
 
 Facilitar el acceso a materiales educativos digitales mediante una plataforma organizada, intuitiva y de fácil consulta.
 
-## Recursos disponibles
+# 🌈 EduRecursos Preescolar
 
-- 📄 Guías didácticas
-- 🎥 Videos educativos
-- 🖼️ Imágenes
-- 📊 Presentaciones
-- 🎮 Recursos interactivos
-- 📝 Evaluaciones
-- 📚 Material complementario
+Bienvenidos a **EduRecursos Preescolar**, un repositorio digital diseñado para organizar y compartir recursos educativos para niños de 3 a 5 años.
 
-## Usuarios
+## 🌟 ¿Qué encontrarás?
 
-- Administrador
-- Docentes
-- Estudiantes
+📖 Planeaciones de clase
 
-## Funcionalidades
+🎨 Actividades de arte
 
-- Buscar recursos.
-- Descargar archivos.
-- Clasificar por categorías.
-- Evaluar recursos.
-- Compartir materiales.
+🔤 Lectoescritura
 
-## Licencia
+🔢 Pensamiento matemático
 
-Uso académico.
+🌿 Exploración del medio
+
+🎵 Música y expresión corporal
+
+🎮 Recursos interactivos
+
+📹 Videos educativos
+
+📄 Guías para docentes
